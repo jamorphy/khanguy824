@@ -1,3 +1,5 @@
+![game preview](./preview.png)
+
 # dependencies
 pygame
 openai

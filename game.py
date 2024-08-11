@@ -26,6 +26,7 @@ SCREEN_WIDTH = 320
 SCREEN_HEIGHT = 480
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
 pygame.display.set_caption("khanguy824")
+pygame.font.init()
 font = pygame.font.Font(None, 20)
 block_size = 20
 grid_size = 16
